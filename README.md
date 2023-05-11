@@ -12,3 +12,6 @@ Folder contains implementation of stack using an array and using a linked list.
 
 **Lab8**
 Folder contains implementation of heap sort.
+
+**Lab9**
+Folder contains implementation of hash table to store usernames and passwords.

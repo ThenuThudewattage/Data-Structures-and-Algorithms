@@ -15,3 +15,6 @@ Folder contains implementation of heap sort.
 
 **Lab9**
 Folder contains implementation of hash table to store usernames and passwords.
+
+**Lab10**
+Folder contains implementation of graph data strucure.

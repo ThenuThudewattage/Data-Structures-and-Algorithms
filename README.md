@@ -18,3 +18,6 @@ Folder contains implementation of hash table to store usernames and passwords.
 
 **Lab10**
 Folder contains implementation of graph data strucure.
+
+**Lab12**
+Folder contains implementation of sssp using djkastra's algorithm

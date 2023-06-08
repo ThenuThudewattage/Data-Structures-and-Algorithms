@@ -20,4 +20,7 @@ Folder contains implementation of hash table to store usernames and passwords.
 Folder contains implementation of graph data strucure.
 
 **Lab12**
+Folder contains implementation of mst using prim's algorithm.
+
+**Lab12**
 Folder contains implementation of sssp using djkastra's algorithm
